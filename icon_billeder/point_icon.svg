@@ -1,0 +1,8 @@
+<svg id="point_icon" data-name="point icon" xmlns="http://www.w3.org/2000/svg" width="22" height="26" viewBox="0 0 22 26">
+  <rect id="background" width="22" height="26" fill="none"/>
+  <g id="Dribbble-Light-Preview" transform="translate(3)">
+    <g id="icons" transform="translate(0)">
+      <path id="pin_fill_sharp_circle-_634_" data-name="pin_fill_sharp_circle-[#634]" d="M175,5250.984a2.621,2.621,0,1,1,2.286-2.6,2.458,2.458,0,0,1-2.286,2.6M175,5239c-4.418,0-8,4.073-8,9.1s8,16.9,8,16.9,8-11.874,8-16.9-3.582-9.1-8-9.1" transform="translate(-167 -5239)" fill="#202020" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
